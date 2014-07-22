@@ -12,7 +12,7 @@ print("""
         // // // // // // // // // // // // // // // // // // // // // // //
 """)
 
-print("""\nThe computer will now ask you a serious of questions and give its response""")
+print("""\nThe computer will now ask you a series of questions and give its response""")
 
 favourite_food1 = input("\nHello, what is your favourite food?")
 

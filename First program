@@ -1,0 +1,36 @@
+#Favourite food game from ppfab
+
+print("""
+        // // // // // // // // // // // // // // // // // // // // // // //
+        // // // // // // // // // // // // // // // // // // // // // // //
+        // //  HELLO AND WELCOME TO THE AMAZING FAVOURITE FOOD PROGRAM // //
+        // //                                                          // //
+        // //  IT IS JUST SO AWESOME, PLEASE HAVE FUN.                 // //
+        // //                                                          // //
+        // //  CREATED BY: SEAN BOYD                                   // //
+        // // // // // // // // // // // // // // // // // // // // // // //
+        // // // // // // // // // // // // // // // // // // // // // // //
+""")
+
+print("""\nThe computer will now ask you a serious of questions and give its response""")
+
+favourite_food1 = input("\nHello, what is your favourite food?")
+
+print(favourite_food1 + "\nMmmm I like that")
+
+favourite_food2 = input("\nAnd what is your second favourite food?")
+
+print(favourite_food2 + "\nHmmm I could take it or leave it!")
+
+print("\nSo your favourite foods are:")
+print (favourite_food1 + " and " + favourite_food2)
+
+junk_food = input("\nDo you like any junk food?")
+
+print("""\n // // // // Junk Food Is Bad For You! // // // //""")
+
+favourite_team = input("\nWhat is your favourite football team?")
+
+print("\nYes they have made some very good signings, should be a close league this year")
+print("\nGoodbye and thank you for playing")
+input("\n\nPress the enter key to exit")
